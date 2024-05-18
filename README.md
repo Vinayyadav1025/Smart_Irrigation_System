@@ -21,7 +21,7 @@ After creating twillio account you will got twillio SID, Token and mobile number
   i) open soil.ino file update your wifi SSID and password<br/>
   ii) Change your server URL <br/>
     For changing server url Go to command prompt and run as Admistration<br/>
-    You will got your local IP<br/>  [like]()
+    You will got your local IP<br/>  [like](https://github.com/Vinayyadav1025/Smart_Irrigation_System/blob/main/cmd.png)
     write same ip in place of your IP in soil.ino file<br/>
     iv) Upload this file in NodeMCU and remember correct port should be selected.<br/>
 # Step 5: Open Moisture file in Arduino and upload in Arduino UNO<br/>
